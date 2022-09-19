@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>My "Hello,world!" page </title>
+     <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>Hello, world!</h1>
+    </header>
+    <article>
+      <figure>
+      <img src="https://placekitten.com/600/400" />
+      <figcaption>A picture of a cute cat. </figcaption>
+      </figure>
+     <p>
+       My name is Brenda Diaz.I am a transfer student . I am currently a Junior in College.
+       I am majoring in natural science and minoring in Biology. My dream career is to be a veterinarian.Hopefully ext spring I can graduate. If I do I will be the first in my family to graduate college.
+       I currently work as a Vet assistant at PAWS clinic in Chicago.I have 3 cats and 2 dogs. My cats name's are Katherine, Kathrino,and Pepe. My dogs name's are Nena and Dorito.I found this cute image of a cat , it reminds me of a cat I have seen in the clinic.Thank you for coming to my TED talk, byee!!
+    </p>
+      </article>
+  </body>
+</html>
