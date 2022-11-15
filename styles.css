@@ -2,6 +2,28 @@ body{
   font-family: "helveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
   Helvetica, Arial, "Lucida Grande" , Sans-serif;
 }
+
+body{
+  font-family:'Inter', sans-seerif;
+  font-weight: 400;
+  margin: 0;
+}
+
+body.dark-mode{
+  background:#010101;
+  color: #ffffff;
+}
+.container{
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.small-container{
+  margin:0 auto;
+  width: 92%
+  max-width: 768px;
+}
 h1#site-title{
   color: purple;
   font-family: verdana;
